@@ -6,3 +6,4 @@
 |Excel File to Flat File | https://www.youtube.com/watch?v=T8ow2xtwzz0 |
 |Precedence Constraints | https://www.youtube.com/watch?v=VycIO6WDaLw |
 | Variables in SSIS | https://www.youtube.com/watch?v=F0ihkcvgAxc |
+| Parameters - package and project | https://www.youtube.com/watch?v=7ztOQUgGh5U |
