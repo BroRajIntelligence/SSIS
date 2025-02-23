@@ -9,3 +9,4 @@
 | Parameters - package and project | https://www.youtube.com/watch?v=7ztOQUgGh5U |
 |  |  |
 |XML Task | https://www.youtube.com/watch?v=lAC6ZnR2fp8 |
+|Web Service Task | https://www.youtube.com/watch?v=EjhJDHx5a4g |
