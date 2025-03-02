@@ -12,3 +12,4 @@
 |Web Service Task | https://www.youtube.com/watch?v=EjhJDHx5a4g |
 |Send Mail Task | https://www.youtube.com/watch?v=R0B9xwFeU0k |
 |File System Task | https://www.youtube.com/watch?v=ULpleKOYBRI |
+|SSIS Script Task | https://www.youtube.com/watch?v=57R0rj3okcE |
