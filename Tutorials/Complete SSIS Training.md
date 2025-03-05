@@ -13,3 +13,4 @@
 |Send Mail Task | https://www.youtube.com/watch?v=R0B9xwFeU0k |
 |File System Task | https://www.youtube.com/watch?v=ULpleKOYBRI |
 |SSIS Script Task | https://www.youtube.com/watch?v=57R0rj3okcE |
+|Expression Task | https://www.youtube.com/watch?v=i8CU5ItsEfk |
