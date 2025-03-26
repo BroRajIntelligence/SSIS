@@ -16,3 +16,4 @@
 |Expression Task | https://www.youtube.com/watch?v=i8CU5ItsEfk |
 |Execute Process Task | https://www.youtube.com/watch?v=L2VzVb0Vnzk |
 |Execute Package Task | https://www.youtube.com/watch?v=q-8nBw28IMg |
+|Execute SQL Task | https://www.youtube.com/watch?v=fNU9EY-NAgk |
