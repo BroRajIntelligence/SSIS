@@ -19,4 +19,4 @@
 |Execute SQL Task | https://www.youtube.com/watch?v=fNU9EY-NAgk |
 |Data Flow Task | https://www.youtube.com/watch?v=ynRq6n6KVEM |
 |  |  |
-|Aggregation Transformation | https://www.youtube.com/watch?v=Aj0cpsZi8_U |
+|Aggregate Transformation | https://www.youtube.com/watch?v=Aj0cpsZi8_U |
