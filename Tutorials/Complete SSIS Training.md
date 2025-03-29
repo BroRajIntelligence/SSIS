@@ -20,3 +20,4 @@
 |Data Flow Task | https://www.youtube.com/watch?v=ynRq6n6KVEM |
 |  |  |
 |Aggregate Transformation | https://www.youtube.com/watch?v=Aj0cpsZi8_U |
+|Conditional Split Transformation | https://www.youtube.com/watch?v=jpiitMlumig |
