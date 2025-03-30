@@ -22,3 +22,4 @@
 |Aggregate Transformation | https://www.youtube.com/watch?v=Aj0cpsZi8_U |
 |Conditional Split Transformation | https://www.youtube.com/watch?v=jpiitMlumig |
 |Data Conversion Transformation | https://www.youtube.com/watch?v=enX0OLar79w |
+|Derived Column Transformation | https://www.youtube.com/watch?v=in8T1xLCRm8 |
