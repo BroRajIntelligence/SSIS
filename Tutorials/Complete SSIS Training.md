@@ -25,3 +25,4 @@
 |Derived Column Transformation | https://www.youtube.com/watch?v=in8T1xLCRm8 |
 |Sort Transformation | https://www.youtube.com/watch?v=Br6oTdWjIHw |
 |Merge Transformation | https://www.youtube.com/watch?v=COpzvDKqdLI |
+|Merge Join Transformation | https://www.youtube.com/watch?v=uB9AqD891gY |
